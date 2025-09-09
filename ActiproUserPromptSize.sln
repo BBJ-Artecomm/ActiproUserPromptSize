@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiproUserPromptSize", "ActiproUserPromptSize.csproj", "{41960A3B-904A-441F-94B7-3807DCE80C80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiproUserPromptSize", "ActiproUserPromptSize\ActiproUserPromptSize.csproj", "{41960A3B-904A-441F-94B7-3807DCE80C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiproTestVSTO", "..\ActiproTestVSTO\ActiproTestVSTO.csproj", "{1C1528E2-9CA1-4757-B9B4-825DF9D729F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiproTestVSTO", "ActiproTestVSTO\ActiproTestVSTO.csproj", "{1C1528E2-9CA1-4757-B9B4-825DF9D729F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
